@@ -1,5 +1,5 @@
 #PROJECT EULER
-#P16: Power digit sum
+#P16: What is the sum of the digits of the number 21000?
 
 import math
 
