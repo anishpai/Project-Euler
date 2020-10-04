@@ -20,4 +20,4 @@ Find the link to the solution as well as a brief description of the problem
 [Solution 21](https://github.com/anishpai/Project-Euler/blob/master/P21f.py) :  Evaluate the sum of all the amicable numbers under 10000 </br>
 [Solution 22](https://github.com/anishpai/Project-Euler/blob/master/P22.py) :  What is the total of all the name scores in the file? </br>
 [Solution 23](https://github.com/anishpai/Project-Euler/blob/master/P23.py) :  Find the sum of all the positive integers which cannot be written as the sum of two abundant numbers </br>
-[Solution 48](https://github.com/anishpai/Project-Euler/blob/master/P15.py) :  Find the last ten digits of the series, 1^1 + 2^2 + 3^3 + ... + 1000^1000. </br>
+[Solution 48](https://github.com/anishpai/Project-Euler/blob/master/P48.py) :  Find the last ten digits of the series, 1^1 + 2^2 + 3^3 + ... + 1000^1000. </br>
